@@ -32,4 +32,4 @@ Para cada delito, la cobertura es (controles implementados + 0,5 × parciales) /
 - La cobertura mide si un control existe, no qué tan eficaz es; una auditoría real necesita evidencia de cada control.
 
 ## Origen
-Basado en un trabajo académico en equipo sobre responsabilidad legal en TIC en la Universidad ECCI. Esta es una reimplementación individual y abierta.
+Basado en trabajos académicos de la Universidad ECCI sobre responsabilidad legal en TIC y prevención de delitos informáticos; este último lo hice con mi compañero **David Alexander Rincón Corredor (Kuronoma)**. Esta es una reimplementación individual y abierta.

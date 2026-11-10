@@ -80,7 +80,7 @@ uv run python -m cumplimiento_1273 matriz
 
 ## Origin
 
-Individual, open-source reimplementation based on an academic team project on ICT legal liability at Universidad ECCI.
+Individual, open-source reimplementation based on academic work at Universidad ECCI on ICT legal liability and cybercrime prevention; the latter was done with my teammate **David Alexander Rincón Corredor (Kuronoma)**.
 
 ## License
 
