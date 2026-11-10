@@ -1,0 +1,10 @@
+articulo,nombre,conducta,prision_min_meses,prision_max_meses,multa_min_smmlv,multa_max_smmlv,controles
+269A,Acceso abusivo a un sistema informático,"Entrar sin autorización (o quedarse dentro contra la voluntad del titular) en un sistema informático, tenga o no medidas de seguridad",48,96,100,1000,5.15;5.16;5.17;5.18;8.2;8.5;8.15;8.16
+269B,Obstaculización ilegítima de sistema informático o red de telecomunicación,"Impedir u obstaculizar el funcionamiento o el acceso normal a un sistema, a sus datos o a una red",48,96,100,1000,8.6;8.14;8.16;8.20;5.29;5.24
+269C,Interceptación de datos informáticos,"Interceptar datos en su origen, destino o dentro de un sistema, o sus emisiones electromagnéticas, sin orden judicial",36,72,,,8.20;8.21;8.24;5.14;7.12
+269D,Daño informático,"Destruir, dañar, borrar, alterar o suprimir datos o componentes lógicos de un sistema sin estar facultado",48,96,100,1000,8.13;8.3;8.32;5.15;8.15
+269E,Uso de software malicioso,"Producir, distribuir, vender, introducir o extraer del país software malicioso",48,96,100,1000,8.7;8.8;8.19;8.23;6.3
+269F,Violación de datos personales,"Obtener, vender, divulgar, modificar o emplear datos personales de bases de datos sin estar facultado y con provecho propio o ajeno",48,96,100,1000,5.34;8.11;8.12;5.12;5.15;8.24
+269G,Suplantación de sitios web para capturar datos personales,"Diseñar o enviar páginas, enlaces o ventanas falsas, o alterar la resolución DNS, para capturar datos personales",48,96,100,1000,8.23;8.20;6.3;5.7;8.16
+269I,Hurto por medios informáticos y semejantes,"Hurtar superando medidas de seguridad, manipulando un sistema o suplantando a un usuario ante la autenticación",,,,,8.5;5.17;8.2;8.15;5.3
+269J,Transferencia no consentida de activos,"Conseguir con ánimo de lucro la transferencia no consentida de un activo mediante manipulación informática",48,120,200,1500,5.3;8.5;8.15;8.16;8.32;5.24

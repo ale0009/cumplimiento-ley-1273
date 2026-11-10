@@ -1,0 +1,32 @@
+codigo,control,estado
+5.3,Segregación de funciones,parcial
+5.7,Inteligencia de amenazas,no_implementado
+5.12,Clasificación de la información,parcial
+5.14,Transferencia de información,implementado
+5.15,Control de acceso,implementado
+5.16,Gestión de identidades,implementado
+5.17,Información de autenticación,parcial
+5.18,Derechos de acceso,parcial
+5.24,Planificación y preparación de la gestión de incidentes,no_implementado
+5.29,Seguridad de la información durante una interrupción,no_implementado
+5.34,Privacidad y protección de datos personales,parcial
+6.3,Concienciación y formación en seguridad,no_implementado
+7.12,Seguridad del cableado,no_aplica
+8.2,Derechos de acceso privilegiado,parcial
+8.3,Restricción de acceso a la información,implementado
+8.5,Autenticación segura,parcial
+8.6,Gestión de la capacidad,implementado
+8.7,Protección contra malware,implementado
+8.8,Gestión de vulnerabilidades técnicas,no_implementado
+8.11,Enmascaramiento de datos,no_implementado
+8.12,Prevención de fuga de datos,no_implementado
+8.13,Copias de seguridad de la información,implementado
+8.14,Redundancia de las instalaciones de procesamiento,parcial
+8.15,Registro de eventos,parcial
+8.16,Actividades de monitoreo,no_implementado
+8.19,Instalación de software en sistemas operativos,implementado
+8.20,Seguridad de redes,implementado
+8.21,Seguridad de los servicios de red,parcial
+8.23,Filtrado web,no_implementado
+8.24,Uso de criptografía,implementado
+8.32,Gestión de cambios,parcial

@@ -1,0 +1,32 @@
+codigo,nombre,tema
+5.3,Segregación de funciones,Organizacional
+5.7,Inteligencia de amenazas,Organizacional
+5.12,Clasificación de la información,Organizacional
+5.14,Transferencia de información,Organizacional
+5.15,Control de acceso,Organizacional
+5.16,Gestión de identidades,Organizacional
+5.17,Información de autenticación,Organizacional
+5.18,Derechos de acceso,Organizacional
+5.24,Planificación y preparación de la gestión de incidentes,Organizacional
+5.29,Seguridad de la información durante una interrupción,Organizacional
+5.34,Privacidad y protección de datos personales,Organizacional
+6.3,Concienciación y formación en seguridad,Personas
+7.12,Seguridad del cableado,Físico
+8.2,Derechos de acceso privilegiado,Tecnológico
+8.3,Restricción de acceso a la información,Tecnológico
+8.5,Autenticación segura,Tecnológico
+8.6,Gestión de la capacidad,Tecnológico
+8.7,Protección contra malware,Tecnológico
+8.8,Gestión de vulnerabilidades técnicas,Tecnológico
+8.11,Enmascaramiento de datos,Tecnológico
+8.12,Prevención de fuga de datos,Tecnológico
+8.13,Copias de seguridad de la información,Tecnológico
+8.14,Redundancia de las instalaciones de procesamiento,Tecnológico
+8.15,Registro de eventos,Tecnológico
+8.16,Actividades de monitoreo,Tecnológico
+8.19,Instalación de software en sistemas operativos,Tecnológico
+8.20,Seguridad de redes,Tecnológico
+8.21,Seguridad de los servicios de red,Tecnológico
+8.23,Filtrado web,Tecnológico
+8.24,Uso de criptografía,Tecnológico
+8.32,Gestión de cambios,Tecnológico

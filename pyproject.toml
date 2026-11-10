@@ -1,0 +1,22 @@
+[project]
+name = "cumplimiento-1273"
+version = "0.1.0"
+description = "Matriz de la Ley 1273 de 2009 frente a ISO/IEC 27001:2022 e informe de brechas para auditoría"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/cumplimiento_1273"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"datos/delitos.csv" = "cumplimiento_1273/delitos.csv"
+"datos/controles_iso27001.csv" = "cumplimiento_1273/controles_iso27001.csv"
